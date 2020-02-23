@@ -1,5 +1,5 @@
 {
-    "name": "stanley/laravel-prerender",
+    "name": "stannlee/laravel-prerender",
     "description": "Prerender middleware for spas created with laravel",
     "require": {
         "php": "^7.2",
