@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Stannlee\\LaravelPrerender\\LaravelPrerenderServiceProvider\\ServiceProvider"
+                "Stannlee\\LaravelPrerender\\LaravelPrerenderServiceProvider"
             ]
         }
     }
