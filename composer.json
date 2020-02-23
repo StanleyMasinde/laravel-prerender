@@ -1,0 +1,30 @@
+{
+    "name": "stanley/laravel-prerender",
+    "description": "Prerender middleware for spas created with laravel",
+    "require": {
+        "php": "^7.2",
+        "illuminate/support": "^6.16",
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/psr-http-message-bridge": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanley Masinde",
+            "email": "stanleyloren@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Stannlee\\LaravelPrerender\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Stannlee\\LaravelPrerender\\LaravelPrerenderServiceProvider\\ServiceProvider"
+            ]
+        }
+    }
+}
