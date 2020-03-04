@@ -3,7 +3,7 @@
     "description": "Prerender middleware for spas created with laravel",
     "require": {
         "php": "^7.2.5",
-        "illuminate/support": "^7.0",
+        "illuminate/support": "^7.0 || ^6.16",
         "guzzlehttp/guzzle": "^6.5",
         "symfony/psr-http-message-bridge": "^2.0"
     },
