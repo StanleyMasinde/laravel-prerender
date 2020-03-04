@@ -2,8 +2,8 @@
     "name": "stannlee/laravel-prerender",
     "description": "Prerender middleware for spas created with laravel",
     "require": {
-        "php": "^7.2",
-        "illuminate/support": "^6.16",
+        "php": "^7.2.5",
+        "illuminate/support": "^7.0",
         "guzzlehttp/guzzle": "^6.5",
         "symfony/psr-http-message-bridge": "^2.0"
     },
