@@ -1,5 +1,7 @@
 #### For Laravel 5 and below, use the [Original Repo](https://github.com/JeroenNoten/Laravel-Prerender)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2d14c369b0844890afe990d50bd80975)](https://app.codacy.com/manual/stanleyloren/laravel-prerender?utm_source=github.com&utm_medium=referral&utm_content=stannlee/laravel-prerender&utm_campaign=Badge_Grade_Dashboard)
+
 =========================== 
 
 Google, Facebook, Twitter, Yahoo, and Bing are constantly trying to view your website... but they don't execute javascript. That's why Prerender was built. Prerender is perfect for AngularJS SEO, BackboneJS SEO, EmberJS SEO, and any other javascript framework.
